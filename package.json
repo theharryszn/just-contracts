@@ -1,0 +1,14 @@
+{
+  "name": "just-contracts",
+  "version": "1.0.0",
+  "description": "List of resuable smart-contracts",
+  "main": "index.js",
+  "repository": "https://github.com/OpeAbidemi/just-contracts.git",
+  "author": "Abidemi Ope <opeabidemi@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "hardhat": "^2.10.1"
+  }
+}
